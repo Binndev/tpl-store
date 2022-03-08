@@ -4,6 +4,11 @@
             "name": "vue2+spa",
             "description": "vue2单页项目",
             "url": ""
+        },
+        {
+            "name": "vue2+mpa",
+            "description": "vue2多页项目",
+            "url": ""
         }
     ]
 }
